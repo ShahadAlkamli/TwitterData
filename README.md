@@ -1,6 +1,6 @@
 # ChatGPT Twitter Data
 
-This repository contains processed Twitter data related to ChatGPT. The data has undergone an enhanced preprocessing pipeline to improve its quality and relevance. The updated preprocessing techniques include:
+This repository contains processed Twitter data related to ChatGPT. The data has undergone an enhanced preprocessing pipeline to improve its quality and relevance. The preprocessing techniques include:
 
 1. **Lower-case Conversion**: All text content in the CSV file has been converted to lowercase for case-insensitive matching.
 
@@ -20,10 +20,12 @@ The processed data is available in the CSV file: [preprocessed_privacy_tweets.cs
 
 The structure of the dataset includes 'original_tweet' and 'processed_tweet' columns, providing both the raw and preprocessed versions of the tweets.
 
+
 | original_tweet | processed_tweet |
 | -------------- | --------------- |
 | Tweet 1        | Processed Text 1|
 | Tweet 2        | Processed Text 2|
 | ...            | ...             |
+
 
 Feel free to explore this updated dataset for more nuanced insights into ChatGPT discussions, with a focus on privacy-related aspects.

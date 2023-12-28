@@ -14,7 +14,7 @@ This repository contains processed Twitter data related to ChatGPT. The data has
 
 6. **Additional Privacy Filtering**: The tweets have been further filtered based on relevant privacy and security-related keywords. These keywords include terms such as 'security', 'privacy', 'cybersecurity', 'confidentiality', 'secure', 'hack', 'hacker', 'encryption', and 'theft'.
 
-The processed data is available in the CSV file: [![Download Preprocessed Tweets](https://img.shields.io/badge/Download-Preprocessed%20Tweets-brightgreen)](preprocessed_tweets.csv). It contains a refined subset of tweets that focus on privacy and security discussions related to ChatGPT.
+The processed data is available in the CSV file: [preprocessed_tweets.csv](preprocessed_tweets.csv). It contains a refined subset of tweets that focus on privacy and security discussions related to ChatGPT.
 
 ## Data Overview
 
